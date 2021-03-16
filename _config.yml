@@ -11,7 +11,7 @@ baseurl: '/igor-brishkoski.github.io'
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
@@ -25,28 +25,28 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://igor-brishkoski.com'
 
-author: your_full_name                  # change to your full name
+author: Igor Brishkoski                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: igor-brishkoski             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Igor Brishkoski                  # it will shows as the copyright owner in Footer
+  email: igor.brishkoski@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/igor-brishkoski       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/igor-brishkoski/
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: jVTJ1XTMFbvn58GziUp5qiNP9n93dWZut6A-ChZEhSc # change to your verification string
 # --------------------------
 
 google_analytics:
