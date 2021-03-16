@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://igor-brishkoski.com/igor-brishkoski.github.io/sitemap.xml
